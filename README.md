@@ -49,13 +49,13 @@ This project demonstrates a simple user authentication flow using React and Vite
 1. **Clone the Repository:**
 
 ```bash
-  git clone
+  git clone https://github.com/Apostle1327/Project-11.2---Form-Validation.git
 ```
 
 2. **Navigate to the Project Directory:**
 
 ```bash
-  cd
+  cd Project-11.2---Form-Validation
 ```
 
 3. **Install Dependencies:**
@@ -104,10 +104,10 @@ This project demonstrates a simple user authentication flow using React and Vite
   To Structure the App Layout.
 - **CSS:**
   To Style & Enhance the user Interface.
-- **JavaScript LocalStorage:**
-  In this app, localStorage is used to save the cart data in the browser, allowing the cart to persist even after the page is reloaded. This ensures that users' selections are maintained across sessions.
 - **Node.js**
   To run the development environment and manage project dependencies via npm or yarn.
+- **JavaScript LocalStorage:**
+  In this app, localStorage is used to save the cart data in the browser, allowing the cart to persist even after the page is reloaded. This ensures that users' selections are maintained across sessions.
 - **React + Vite + JSX (JavaScript & XML):**
   React + Vite + JSX is a modern stack for building fast web apps. React provides reusable UI components, Vite offers fast development and optimized builds, and JSX allows writing HTML-like code in JavaScript for seamless UI creation.
 
