@@ -92,9 +92,9 @@ This project demonstrates a simple user authentication flow using React and Vite
 
 # 📷 Screenshots
 
-<img width="330" alt="Form Validation - 1" src="./src/Images/From Validation - 1.png">
-<img width="330" alt="Form Validation - 2" src="./src/Images/From Validation - 2.png">
-<img width="330" alt="Form Validation - 3" src="./src/Images/From Validation - 3.png">
+<img width="330" alt="Form Validation - 1" src="./src/Images/Form Validation - 1.png">
+<img width="330" alt="Form Validation - 2" src="./src/Images/Form Validation - 2.png">
+<img width="330" alt="Form Validation - 3" src="./src/Images/Form Validation - 3.png">
 
 ---
 
