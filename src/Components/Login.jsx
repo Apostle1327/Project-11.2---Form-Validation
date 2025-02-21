@@ -68,6 +68,7 @@ const Login = ({ onSubmit, credentials }) => {
           }}
         >
           <span className="display-4 mb-5 text-primary">Login</span>
+
           <div className="form-floating mb-3 mt-3">
             <input
               type="email"
@@ -80,6 +81,7 @@ const Login = ({ onSubmit, credentials }) => {
               style={{ background: "transparent", border: "2px solid #c3c3c3" }}
               required
             />
+
             <label
               htmlFor="floatingInput"
               style={{ background: "transparent", color: "black" }}
@@ -87,6 +89,7 @@ const Login = ({ onSubmit, credentials }) => {
               Email address
             </label>
           </div>
+
           <div className="form-floating">
             <input
               type="password"
@@ -99,6 +102,7 @@ const Login = ({ onSubmit, credentials }) => {
               style={{ background: "transparent", border: "2px solid #c3c3c3" }}
               required
             />
+
             <label
               htmlFor="floatingPassword"
               style={{ background: "transparent", color: "black" }}
@@ -106,6 +110,7 @@ const Login = ({ onSubmit, credentials }) => {
               Password
             </label>
           </div>
+
           <button
             type="submit"
             className="btn btn-primary mt-4 rounded-5 w-75 p-2"

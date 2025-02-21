@@ -25,6 +25,7 @@ const ToggleController = () => {
           <h1 className="display-1 text-primary">
             Welcome {userData.firstName}
           </h1>
+
           <button className="btn btn-danger" onClick={logout}>
             Logout
           </button>

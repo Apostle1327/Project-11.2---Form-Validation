@@ -78,6 +78,7 @@ const SignUp = ({ onSubmit }) => {
                 }}
                 required
               />
+
               <label
                 htmlFor="firstNameInput"
                 style={{ background: "transparent", color: "black" }}
@@ -102,6 +103,7 @@ const SignUp = ({ onSubmit }) => {
                 }}
                 required
               />
+
               <label
                 htmlFor="lastNameInput"
                 style={{ background: "transparent", color: "black" }}
@@ -123,6 +125,7 @@ const SignUp = ({ onSubmit }) => {
               style={{ background: "transparent", border: "2px solid #c3c3c3" }}
               required
             />
+
             <label
               htmlFor="eMailInput"
               style={{ background: "transparent", color: "black" }}
@@ -143,6 +146,7 @@ const SignUp = ({ onSubmit }) => {
               style={{ background: "transparent", border: "2px solid #c3c3c3" }}
               required
             />
+
             <label
               htmlFor="dOBInput"
               style={{ background: "transparent", color: "black" }}
@@ -163,6 +167,7 @@ const SignUp = ({ onSubmit }) => {
               style={{ background: "transparent", border: "2px solid #c3c3c3" }}
               required
             />
+
             <label
               htmlFor="passWordInput"
               style={{ background: "transparent", color: "black" }}
@@ -183,6 +188,7 @@ const SignUp = ({ onSubmit }) => {
               style={{ background: "transparent", border: "2px solid #c3c3c3" }}
               required
             />
+
             <label
               htmlFor="passWordCheck"
               style={{ background: "transparent", color: "black" }}
@@ -198,6 +204,7 @@ const SignUp = ({ onSubmit }) => {
               id="flexCheckDefault"
               required
             />
+
             <label
               className="form-check-label d-flex flex-start"
               htmlFor="flexCheckDefault"
