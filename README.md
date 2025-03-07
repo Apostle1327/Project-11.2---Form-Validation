@@ -25,7 +25,7 @@ This project demonstrates a simple user authentication flow using React and Vite
 
 ## 📂 Project Folder Structure
 
-```cpp
+```jsx
 ├── src/
 │   ├── components/
 │   │   ├── Login.jsx            // Component for user login.
